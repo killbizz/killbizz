@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Gabriel's Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kill.bizz)
 
 ## About me 🕵️
-Hello! I'm a **(Web/Audio) Software Developer** and an audio-visual artist in my free time.
+Hello! I'm a **(Web/Audio) Software Developer** and a multimedia artist in my free time.
 
 📌 Bachelor's degree in Computer Science at *Università degli Studi di Padova*, Padua, Italy
 
