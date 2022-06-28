@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 [![Gabriel's Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kill.bizz)
 
 ## About me 🕵️
-Hello! I'm a **(Web/Audio) Software Developer** and a multimedia artist in my free time.
+Hello! I'm a full-time **(Web/Audio) Software Developer** and a **Electronic Music enthusiast**.
 
 📌 Bachelor's degree in Computer Science at *Università degli Studi di Padova*, Padua, Italy
 
-📌 I° level Academic Degree in Electronic Music at *C. Pollini Conservatory of Music*, Padua, Italy
+📌 Bachelor's degree in Electronic Music at *C. Pollini Conservatory of Music*, Padua, Italy
 
-Don't hesitate to contact me to get my updated CV.
+Don't hesitate to contact me for any info or to get my updated CV.
 
 ## My GitHub stats 📈 
 ![visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=killbizz&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
