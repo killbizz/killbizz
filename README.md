@@ -31,6 +31,6 @@ Don't hesitate to contact me for any info or to get my updated CV.
 ## My GitHub stats 📈 
 ![visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=killbizz&label=Visitors&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge)
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=killbizz&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel's GitHub stats](https://github-readme-stats-kappa-two-87.vercel.app/api?username=killbizz&count_private=true&show_icons=true&theme=gotham)](https://github.com/killbizz/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killbizz&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kappa-two-87.vercel.app/api/top-langs/?username=killbizz&theme=gotham)](https://github.com/killbizz/github-readme-stats)
