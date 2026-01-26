@@ -28,6 +28,6 @@ Hello! I'm a **(Web/Audio) Software Developer** and a **Electronic Music enthusi
 📌 Bachelor's degree in Electronic Music at *C. Pollini Conservatory of Music*, Padua, Italy
 
 ## My GitHub stats 📈 
-[![Gabriel's GitHub stats](https://github-readme-stats-kappa-two-87.vercel.app/api?username=killbizz&count_private=true&show_icons=true&theme=gotham)](https://github.com/killbizz/github-readme-stats)
+[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=killbizz&count_private=true&show_icons=true&theme=gotham)](https://github.com/killbizz/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-kappa-two-87.vercel.app/api/top-langs/?username=killbizz&theme=gotham)](https://github.com/killbizz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killbizz&theme=gotham)](https://github.com/killbizz/github-readme-stats)
